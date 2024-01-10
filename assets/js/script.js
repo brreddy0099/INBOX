@@ -65,9 +65,12 @@ $(function() {
 		    to: value + 1
 		  });
 		}
+        
 	});
 
 	$('#infinity').each(count);
+
+   
 
 	function count(options) {
         var $this = $(this);
@@ -85,5 +88,4 @@ $(function() {
                 return false;
             }
     });
-    
 });
