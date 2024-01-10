@@ -89,13 +89,9 @@ h4 {
 .btn-border {
     background-color: transparent;
     color: #3BB44A;
-<<<<<<< Updated upstream
     border: 1px solid #212121; 
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     
-=======
-    border: 1px solid #3BB44A; 
->>>>>>> Stashed changes
 }
 
 .btn-fill:hover,
@@ -114,7 +110,6 @@ h4 {
 }
 /* Input fields */
 .form-control {
-<<<<<<< Updated upstream
     padding-left: 20px;
     border: 0 ;
     margin-top: 30px;
@@ -123,14 +118,6 @@ h4 {
     border-radius: 10px;
     background-color: rgba(233, 232, 230, 0.331); 
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-=======
-    padding-left: 10px;
-    border: 0;
-    border-bottom: 1px solid #3BB44A;
-    border-radius: 0;
-    background-color: transparent; 
-    box-shadow: none;
->>>>>>> Stashed changes
     outline: 0 none transparent;
     -webkit-appearance:none;
  }
